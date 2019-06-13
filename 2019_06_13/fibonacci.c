@@ -24,20 +24,5 @@ int leerEntero(char *fn) {
 }
 
 int main(int argc, char** argv) {
-	int x = 0;
-	pid_t pid;
-
-	pid = fork();
-	if (pid == 0){
-		int f = fibonacci(x);
-		guardarEntero("hola",f);
-		printf("%d",f);
-	} else {
-		int status;
-		pid2 = wait(&status);
-		status = leerEntero("hola");
-		printf("%d",status*100);
-	}
-
 
 }
