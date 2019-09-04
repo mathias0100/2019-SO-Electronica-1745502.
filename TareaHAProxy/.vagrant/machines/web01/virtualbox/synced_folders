@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/":{"guestpath":"/var/www/html","hostpath":"/home/mathias/2019-SO-Electronica-1745502./TareaHAProxy/web01","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/mathias/2019-SO-Electronica-1745502./TareaHAProxy","disabled":false,"__vagrantfile":true}}}
