@@ -6,7 +6,6 @@
 ##Importando paquetes de Python
 import mraa
 import time
-import math
 
 ##Activando el pin A1 como entrada
 ain = mraa.Aio(1)
